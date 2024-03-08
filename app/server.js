@@ -16,10 +16,10 @@ listner.use(cors({origin:"*"}));
 
 // Database
 const DB_CONFIG ={
-    username: 'postgres.nbtfextgppziibcbgspm',
-    password: 'xaa9TEEXB6r4flXN',
+    username: '',
+    password: '',
     database: 'postgres',
-    host: 'aws-0-ap-south-1.pooler.supabase.com',
+    host: '',
     dialect: 'postgres',
 };
 
